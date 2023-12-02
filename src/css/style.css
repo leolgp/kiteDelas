@@ -57,7 +57,7 @@ body {
 .hero {
     grid-area: hero;
     height: 89vh;
-    background: url(../img/capa.jpg) center center no-repeat;
+    background: url(/src/img/capa.JPG) center center no-repeat;
     background-size: cover;
     display: flex;
     justify-content: right;
